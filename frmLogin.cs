@@ -13,7 +13,7 @@ namespace Sistema_de_Mercado
     public partial class frmLogin : Form
 
     {
-        frmeditar logeo;
+        frmprincipal logeo;
         public frmLogin()
         {
             InitializeComponent();
@@ -37,7 +37,7 @@ namespace Sistema_de_Mercado
             }
             else if (txtusuario.Text == "Jesus" && txtpassword.Text == "12345")
             {
-                logeo = new frmeditar();
+                logeo = new frmprincipal();
                 logeo.Show();
                 this.Hide();
 

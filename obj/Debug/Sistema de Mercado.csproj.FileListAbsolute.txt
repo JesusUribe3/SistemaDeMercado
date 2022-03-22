@@ -10,3 +10,5 @@ C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema de Mercado.pdb
 C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema_de_Mercado.frmLogin.resources
 C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema_de_Mercado.Frmcrear.resources
 C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema_de_Mercado.frmeditar.resources
+C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema_de_Mercado.Frmeliminar.resources
+C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema_de_Mercado.frmprincipal.resources
