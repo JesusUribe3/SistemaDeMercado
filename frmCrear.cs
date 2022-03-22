@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Sistema_de_Mercado
 {
-    public partial class frmPrincipal : Form
+    public partial class Frmcrear : Form
     {
-        public frmPrincipal()
+        public Frmcrear()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

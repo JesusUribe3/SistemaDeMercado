@@ -1,0 +1,12 @@
+C:\Users\horac\source\repos\Sistema de Mercado\bin\Debug\Sistema de Mercado.exe.config
+C:\Users\horac\source\repos\Sistema de Mercado\bin\Debug\Sistema de Mercado.exe
+C:\Users\horac\source\repos\Sistema de Mercado\bin\Debug\Sistema de Mercado.pdb
+C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema de Mercado.csproj.AssemblyReference.cache
+C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema_de_Mercado.Properties.Resources.resources
+C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema de Mercado.csproj.GenerateResource.cache
+C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema de Mercado.csproj.CoreCompileInputs.cache
+C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema de Mercado.exe
+C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema de Mercado.pdb
+C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema_de_Mercado.frmLogin.resources
+C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema_de_Mercado.Frmcrear.resources
+C:\Users\horac\source\repos\Sistema de Mercado\obj\Debug\Sistema_de_Mercado.frmeditar.resources

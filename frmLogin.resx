@@ -117,17 +117,35 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="editar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\editar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="editar1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\editar1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\edit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="editarpng" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\editarpng.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkK
+        DA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQ
+        EBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCABAAEADASIAAhEBAxEB/8QA
+        GwAAAgIDAQAAAAAAAAAAAAAAAAkHCgQGCAL/xAA5EAABAgQEAwQIBAcBAAAAAAABAgMEBQYRAAcIEgkT
+        IRQYMUEVFiJRWGGU0RczQoEZJEdydpGVxf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAA
+        AAAAAAAAAAAA/9oADAMBAAIRAxEAPwBnuIw1GahqB0y5ZxmZVfRDimW1iGgIBgjtEwi1AlDDQPS9gVFR
+        6JSlRPhYyfhOnGbrybzXPalMu1PuCUyCnETBtm52mKin3Q4u3gfYYZAPlZXvwEZZt8UbVfmROX36crBu
+        hZOVns8tkbDYUhPlviHEl1areJBSknqEjwwZScUbVflvOWH6jrBuupOFjtEtnjDZUtPnsiG0h1CreBJU
+        kHqUnwxyLgwFkPTlqGoPU1llA5l0G+tDTqjDTCAfI7RLotIBWw5bpcAhQUOikqSel7CT8J14MdeTeVZ7
+        VZl4l9wyqf02qYONXJSIqFfaDa7eA9h94E+d0+7DisAYMGDAGFecZTICezNdM6i6fl7sVBS2DFPz8tIJ
+        7K3zVOQr6reCCt51sqPgS0P1DDQ8Ys2lMrn0si5JPJbCzCXxzK4eKhIppLrL7ShZSFoUCFJIJBBFjgKu
+        +DDj83ODhkrWU5fnOV9dzighErK1y9UKJnBtE+TSVuNupF/JTih7rDpgyl4N+StHThic5n15Oa7EMsOJ
+        gEQqZZBukeTqUrcdUPklxPzuOmA0Dg15ATyWKqbUXP4ByFgplBmnpAXEkGJb5qXIp5IPigLZabCh4kOj
+        9Ju0LGLKZTK5DLIWSSOWw0vl8CyiHhYWFaS0yw0kWShCEgBKQAAABYYysAYMGDAcL69eI7D6cZo5lPlP
+        AQM4r3kocmEVFgrhJOhxO5CVISQXHykpWEkhKQpJVuvtwteda/8AWNPY9yYRefdRsLcUVbIItQrSfkG2
+        kJSB+2IezFrOaZi19UVezuIW9HVDNImZPrUSTuecUuwv4AXsB5AAY17ATn35tXnxCVj9cftg782rz4hK
+        x+uP2xBmDAdAybX7rGkce3MYTPyo3nGyCERhaimlfItuoUk/6w07vkVxQXD/AJTqezIlMojawm8ElEBB
+        wjS2YWIiXn1twylpKiQOWkPOBJANlJTtuMLm4b2lGQans4I92vGnH6Po2Faj5nCtrKDHPOLKYeGUpNil
+        CtjilEG5DZSLbriStfmuLKjM+gntMGTeX5hKapmbQ4hJwy63DwhTCBxvlw8KhH5J3eysqT0F9vXAe/xT
+        4pQyu74XrzFep9+3dk/k+V2PmbOb2HZ+Rfpe2/b7fh7eGWaR9QLOprImQZqrlzcvmMVzYKawjRJbZjWV
+        bXNl7nYr2VpBJISsAkkE4Vf/ABKWO6J3Wfwac3+qvq16c9YBa+zbzuz9m/fbzP3xuHDl1/0FkTTcsyCz
+        ApWMhpfNZ67ECpWYtK24ZcRy0JDrBQCG0lA3LC1EA329MAvAggkEWIwYsUzTRZpQnMyiZtMsgaMdi4x1
+        T77glyUb1qN1KsmwFySegxi9xnSH8PdHfQj74CvBgxYf7jOkP4e6O+hH3wdxnSH8PdHfQj74Dingf/1p
+        P+Of+lhWxJJucWWcscjMocl/SX4VZeyal/THJ7f6OY5faOVv5e/37ea5b+44SBm3w79UuXNczSnJLlPP
+        qplDMS56Om0nhjFMxUNuPLWQi5bVttuQoAg38RYkOZcAJBuD1xNHct1Z/DvXn/Fe+2Nzyk4d+qTMauZX
+        Tk6ynn1LSh6Jb9IzacQxhWYWG3DmLAXYuK232oSCSbeAuQH/2Q==
+</value>
   </data>
 </root>
