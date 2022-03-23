@@ -16,5 +16,10 @@ namespace Sistema_de_Mercado
         {
             InitializeComponent();
         }
+
+        private void btnprineliminar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
